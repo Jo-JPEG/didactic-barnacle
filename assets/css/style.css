@@ -37,3 +37,9 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+#welcome {
+    text-align: center;
+    margin-top: 20px;
+    background-image: url("../images/a rustic natural spa.png");
+}
